@@ -75,16 +75,7 @@ const FOOTER_HTML = `
         </div>
       </div>
 
-      <div class="footer-col">
-        <h4>Services</h4>
-        <div class="footer-links">
-          <a href="services.html">Laptop Sales</a>
-          <a href="services.html">Desktop Computers</a>
-          <a href="services.html">Printers & Cartridges</a>
-          <a href="services.html">Repair & Maintenance</a>
-          <a href="services.html">Networking Solutions</a>
-        </div>
-      </div>
+    
 
      
 

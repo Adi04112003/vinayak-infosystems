@@ -61,7 +61,7 @@ const FOOTER_HTML = `
         <div class="footer-contact-list">
           <a href="tel:+919140676972">📱 +91 9140676972</a>
           <a href="mailto:vinayakinfo249@gmail.com">✉️ vinayakinfo249@gmail.com</a>
-          <a href="https://maps.google.com/?q=26.7299719,80.9009236" target="_blank">📍 Shop No 7 Basement Yadav Market CRPF Choraha Bijnor Uttar Pradesh</a>
+          <a href="https://www.google.com/maps/place/26%C2%B043'48.0%22N+80%C2%B054'03.3%22E/@26.7301696,80.8994905,17.82z/data=!4m4!3m3!8m2!3d26.7299855!4d80.9009072?hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">📍 Shop No 7 Basement Yadav Market CRPF Choraha Bijnor Uttar Pradesh</a>
         </div>
       </div>
 
